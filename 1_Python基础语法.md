@@ -120,7 +120,7 @@ print(A,a)
 
 所有 Python 的关键字只包含小写字母。
 
-|||
+||||
 |:-----:|:-----:|:-----:|
 |and|exec|not|
 |assert|finally|or|
